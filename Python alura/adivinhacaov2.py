@@ -8,13 +8,16 @@ total_de_tentativas = 3
 
 
 
-for (rodada in range (1, total_de_tentativas + 1)):
+for rodada in range (1, total_de_tentativas + 1):
     print("Tentativa {} de {}".format(rodada, total_de_tentativas)) # O .format se chama String interpolation
     chute_Str = input("Digite o seu numero: ")
     print("Você digitou", chute_Str)
     chute = int(chute_Str)
 
-    acertou = numero_secreto == chute
+    if (chute < 1)
+
+
+    acertou = chute == numero_secreto
     maior = chute > numero_secreto
     menor = chute < numero_secreto
 
