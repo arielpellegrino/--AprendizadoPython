@@ -1,3 +1,4 @@
-from django.shortcuts import render
 
-# Create your views here.
+def grades(request):
+    if request.method =='GET':
+        return HttpResponse("ok!")

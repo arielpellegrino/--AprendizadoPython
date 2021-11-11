@@ -16,6 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.http import HttpResponse
+from grades.views import grades
 
 def grades(request):
     if request.method =='GET':
