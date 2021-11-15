@@ -1,14 +1,7 @@
+import random
 
-value = 112233
+numero_random = int(random.random() * 100)
 
-dia = 15
-mes = "Dezembro"
-ano = 1992
 
-print("o valor trabalhado é de {:.1f}".format(value))
-print("o valor trabalhado é de {:7.2f}".format(value))
-print("o valor trabalhado é de {:8.3f}".format(value))
+print(numero_random)
 
-print("eu nasci no dia {}/{}/{}".format(dia, mes, ano))
-
-print("---------------------------------------------------")
