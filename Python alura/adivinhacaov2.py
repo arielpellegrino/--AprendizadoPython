@@ -6,7 +6,7 @@ print("Bem vindo ao jogos de adivinhação")
 print("***********************************")
 
 #Declaração de numeros
-numero_secreto = round(random.randrange(1, 101, 1))
+numero_secreto = round(random.randrange(1, 101))
 total_de_tentativas = 3
 
 print (numero_secreto)
