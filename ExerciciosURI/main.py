@@ -2,4 +2,4 @@
 
 print('Bem vindo')
 
-import pacotes.uri1001
+import ExerciciosURI.uri1001
