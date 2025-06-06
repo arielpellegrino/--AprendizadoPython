@@ -1,6 +1,6 @@
 import random
 
-
+# teste 
 print("***********************************")
 print("Bem vindo ao jogos de adivinhação")
 print("***********************************")
