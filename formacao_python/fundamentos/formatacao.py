@@ -7,3 +7,12 @@ print("o valor é %d" % (valor))
 
 decimal = 23.456
 print("A parte inteira é %d" % (decimal))
+
+# Formatação com caracteres especiais
+
+texto = "Olá, assim se quebra uma linha, \n\t\t entendeu? \n\t fim!"
+print(texto)
+
+texto = "Deixa a \'palavra\' entre aspas simples"
+print(texto)
+
