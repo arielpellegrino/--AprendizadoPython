@@ -2,7 +2,7 @@
 Este repositório contem os arquivos utilizados nos estudos da linguagem Python3 
 
 ### Cursos referencia: 
-
+https://www.eia.ai/view/courses/formacao-profissional-python-curso-completo-projetos
 
 
 ### Leitura complementar: 
